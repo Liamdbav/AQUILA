@@ -60,6 +60,4 @@ Le pipeline Python suit ces étapes : détection du point d'entrée → collecte
 
 Fait avec soin par **Liam** - License MIT — voir [LICENSE](LICENSE)
 
-[![Follow on X](https://img.shields.io/badge/Follow-%40Liamdbav-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Liamdbav)
-
 </div>
